@@ -1,0 +1,10 @@
+[debug] > Exec(assembly, None, None)
+[debug] Evaluating tasks: assembly
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\parserJsonParquet\target\scala-2.12\classes ...
+[info] done compiling
+[info] Strategy 'discard' was applied to 305 files (Run the task at debug level to see details)
+[info] Strategy 'first' was applied to 29 files (Run the task at debug level to see details)
+[warn] Ignored unknown package option FixedTimestamp(Some(1262304000000))
+[success] Total time: 205 s (03:25), completed 09.02.2022 17:17:12
+[debug] > Exec(idea-shell, None, None)

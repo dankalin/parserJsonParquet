@@ -1,0 +1,5 @@
+[debug] > Exec(clean, None, None)
+[debug] Evaluating tasks: clean
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 37 s, completed 10.02.2022 13:11:15
+[debug] > Exec(idea-shell, None, None)
